@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-A curated list of awesome AIGC with RL works
+A curated list of awesome AIGC with RL works.
 - [Text to Image](#text-to-image)
 - [LLMs](#llms)
 - [Avatar](#avatar)
